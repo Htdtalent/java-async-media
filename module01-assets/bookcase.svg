@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: #fff;" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="800px" height="400px">
+    <style>
+    text {
+        font-family: Consolas, Courier, sans-serif;
+        font-size: 18px;
+        fill: #000;    
+    }
+    </style>
+    <rect x="25" y="25" width="200" height="350" fill="none" stroke="#000" stroke-width="1"/>
+    <text x="112" y="55" text-anchor="middle">"Clerissa"</text>
+    <line x1="25" y1="75" x2="225" y2="75" stroke="#000" stroke-width="1" />
+    <text x="112" y="105" text-anchor="middle">"Virgilio"</text>
+    <line x1="25" y1="125" x2="225" y2="125" stroke="#000" stroke-width="1" />
+    <text x="112" y="155" text-anchor="middle">"Marigold"</text>
+
+     <!--arrow-->
+    <line x1="175" y1="150" x2="233" y2="150" stroke="#000" stroke-width="1"/>
+    <line x1="221" y1="145" x2="233" y2="150" stroke="#000" stroke-width="1"/>
+    <line x1="221" y1="155" x2="233" y2="150" stroke="#000" stroke-width="1"/>
+    <text x="240" y="155">Read the name on the fifth shelf. (Marigold)</text>
+
+    <line x1="25" y1="175" x2="225" y2="175" stroke="#000" stroke-width="1" />
+    <line x1="25" y1="225" x2="225" y2="225" stroke="#000" stroke-width="1" />
+
+    <line x1="25" y1="275" x2="225" y2="275" stroke="#000" stroke-width="1" />
+
+    <!--arrow-->
+    <line x1="125" y1="300" x2="233" y2="300" stroke="#000" stroke-width="1"/>
+    <line x1="125" y1="300" x2="137" y2="295" stroke="#000" stroke-width="1"/>
+    <line x1="125" y1="300" x2="137" y2="305" stroke="#000" stroke-width="1"/>
+    <text x="240" y="305">Store "Drucy" on the second shelf.</text>    
+
+    <line x1="25" y1="325" x2="225" y2="325" stroke="#000" stroke-width="1" />
+    <text x="112" y="355" text-anchor="middle">"Miner"</text>
+</svg>

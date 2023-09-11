@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: rgb(255, 255, 255);" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="772px" height="695px">
+    <rect x="21" y="34" width="740" height="290" rx="43.5" ry="43.5" fill="none" stroke="#007fff" stroke-width="3" stroke-dasharray="9 9"/>
+    <rect x="11" y="384" width="760" height="310" fill="none" stroke="#000000"/>
+    <rect x="11" y="24" width="760" height="310" fill="none" stroke="#000000"/>
+    <text x="92" y="15" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle" font-weight="bold">Compiled Per Platform</text>
+    <text x="31" y="369" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle" font-weight="bold">Java</text>    
+    <rect x="41" y="149" width="80" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+    <text x="81" y="183" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Code</text>
+    <rect x="191" y="44" width="540" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+    <rect x="191" y="114" width="540" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+    <rect x="191" y="184" width="540" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+    <rect x="191" y="254" width="540" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+    <path d="M 582 214 L 602 214 L 591 214 L 624.63 214" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 629.88 214 L 622.88 217.5 L 624.63 214 L 622.88 210.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <rect x="462" y="194" width="120" height="40" rx="6" ry="6" fill="#ffffff" stroke="#000000"/>
+    <text x="522" y="218" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Machine Code</text>
+    <path d="M 582 144 L 602 144 L 593 144 L 626.63 144" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 631.88 144 L 624.88 147.5 L 626.63 144 L 624.88 140.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <rect x="462" y="124" width="120" height="40" rx="6" ry="6" fill="#ffffff" stroke="#000000"/>
+    <text x="522" y="148" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Machine Code</text>
+    <path d="M 582 74 L 602 74 L 591 74 L 624.63 74" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 629.88 74 L 622.88 77.5 L 624.63 74 L 622.88 70.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <rect x="462" y="54" width="120" height="40" rx="6" ry="6" fill="#ffffff" stroke="#000000"/>
+    <text x="522" y="78" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Machine Code</text>
+    <text x="233" y="60" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Unix 32 bit</text>
+    <text x="248" y="134" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Mac OS 32 bit</text>
+    <text x="248" y="202" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Windows 16 bit</text>
+    <text x="247" y="269" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Windows 32 bit</text>
+    <path d="M 582 284 L 602 284 L 591 284 L 624.63 284" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 629.88 284 L 622.88 287.5 L 624.63 284 L 622.88 280.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <rect x="462" y="264" width="120" height="40" rx="6" ry="6" fill="#ffffff" stroke="#000000"/>
+    <text x="522" y="288" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Machine Code</text>
+    <path d="M 441 284 L 455.63 284" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 460.88 284 L 453.88 287.5 L 455.63 284 L 453.88 280.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 321 269 L 421 269 L 441 284 L 421 299 L 321 299 L 341 284 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <text x="381" y="288" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Compiler</text>
+    <path d="M 441 214 L 461 214 L 442 214 L 455.63 214" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 460.88 214 L 453.88 217.5 L 455.63 214 L 453.88 210.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 321 199 L 421 199 L 441 214 L 421 229 L 321 229 L 341 214 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <text x="381" y="218" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Compiler</text>
+    <path d="M 441 144 L 455.63 144" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 460.88 144 L 453.88 147.5 L 455.63 144 L 453.88 140.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 321 129 L 421 129 L 441 144 L 421 159 L 321 159 L 341 144 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <text x="381" y="148" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Compiler</text>
+    <path d="M 441 74 L 455.63 74" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 460.88 74 L 453.88 77.5 L 455.63 74 L 453.88 70.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 321 59 L 421 59 L 441 74 L 421 89 L 321 89 L 341 74 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <text x="381" y="78" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Compiler</text>
+    <rect x="41" y="499" width="80" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+    <text x="81" y="533" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Code</text>
+    <path d="M 157 504 L 249 504 L 269 529 L 249 554 L 157 554 L 177 529 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <text x="213" y="533" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Compiler</text>
+    <rect x="300" y="499" width="80" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+    <text x="340" y="533" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">bytecode</text>
+    <rect x="490" y="402" width="238" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+    <rect x="490" y="472" width="238" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+    <rect x="490" y="542" width="238" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+    <rect x="490" y="612" width="238" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+    <text x="531" y="417" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Unix 32 bit</text>
+    <text x="543" y="486" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Mac OS 32 bit</text>
+    <text x="547" y="559" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Windows 16 bit</text>
+    <text x="547" y="626" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Windows 32 bit</text>
+    <path d="M 603 412 L 703 412 L 723 432 L 703 452 L 603 452 L 623 432 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <text x="663" y="429" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">JRE</text>
+    <text x="663" y="444" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">(execute)</text>
+    <path d="M 603 482 L 703 482 L 723 502 L 703 522 L 603 522 L 623 502 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <text x="663" y="499" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">JRE</text>
+    <text x="663" y="514" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">(execute)</text>
+    <path d="M 603 554 L 703 554 L 723 574 L 703 594 L 603 594 L 623 574 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <text x="663" y="571" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">JRE</text>
+    <text x="663" y="586" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">(execute)</text>
+    <path d="M 607 622 L 699 622 L 719 642 L 699 662 L 607 662 L 627 642 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <text x="663" y="639" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">JRE</text>
+    <text x="663" y="654" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">(execute)</text>
+    <path d="M 611 264 L 691 264 L 711 284 L 691 304 L 611 304 L 631 284 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <text x="661" y="288" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">execute</text>
+    <path d="M 611 194 L 691 194 L 711 214 L 691 234 L 611 234 L 631 214 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <text x="661" y="218" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">execute</text>
+    <path d="M 613 124 L 693 124 L 713 144 L 693 164 L 613 164 L 633 144 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <text x="663" y="148" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">execute</text>
+    <path d="M 611 54 L 691 54 L 711 74 L 691 94 L 611 94 L 631 74 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <text x="661" y="78" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">execute</text>
+    <path d="M 121 529 L 170.63 529" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 175.88 529 L 168.88 532.5 L 170.63 529 L 168.88 525.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 269 529 L 293.63 529" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 298.88 529 L 291.88 532.5 L 293.63 529 L 291.88 525.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 380 514 L 380 484 L 421 484 L 421 432 L 616.63 432" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 621.88 432 L 614.88 435.5 L 616.63 432 L 614.88 428.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 380 514 L 471 514 L 471 502 L 616.63 502" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 621.88 502 L 614.88 505.5 L 616.63 502 L 614.88 498.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 380 559 L 380 584 L 421 584 L 421 642 L 620.63 642" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 625.88 642 L 618.88 645.5 L 620.63 642 L 618.88 638.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 380 544 L 421 544 L 421 574 L 616.63 574" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 621.88 574 L 614.88 577.5 L 616.63 574 L 614.88 570.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 121 164 L 171 164 L 171 74 L 334.63 74" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 339.88 74 L 332.88 77.5 L 334.63 74 L 332.88 70.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 121 179 L 181 179 L 181 144 L 334.63 144" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 339.88 144 L 332.88 147.5 L 334.63 144 L 332.88 140.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 121 194 L 141 194 L 141 214 L 334.63 214" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 339.88 214 L 332.88 217.5 L 334.63 214 L 332.88 210.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 121 209 L 121 224 L 141 224 L 141 284 L 334.63 284" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 339.88 284 L 332.88 287.5 L 334.63 284 L 332.88 280.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <rect x="21" y="452" width="390" height="152" rx="22.8" ry="22.8" fill="none" stroke="#007fff" stroke-width="3" stroke-dasharray="9 9"/>
+    <text x="127" y="482" fill="#004C99" font-family="Helvetica" font-size="14px" text-anchor="middle" text-decoration="underline">Developer's Responsibility</text>
+    <text x="85" y="78" fill="#004C99" font-family="Helvetica" font-size="14px" text-anchor="middle" text-decoration="underline">Developer's</text>
+    <text x="85" y="98" fill="#004C99" font-family="Helvetica" font-size="14px" text-anchor="middle" text-decoration="underline">Responsibility</text>    
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: #fff;" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="800px" height="110px">
+    <style>
+    text {
+        font-family: Consolas, Courier, sans-serif;
+        font-size: 18px;
+        fill: #000;    
+    }
+    </style>
+    <text x="20" y="36">numbers</text>
+    <line x1="100" y1="30" x2="150" y2="30" stroke="#000" stroke-width="1"/>
+    <line x1="135" y1="25" x2="150" y2="30" stroke="#000" stroke-width="1"/>
+    <line x1="135" y1="35" x2="150" y2="30" stroke="#000" stroke-width="1"/>
+
+    <text x="177" y="36" text-anchor="middle">0</text>
+    <rect x="160" y="14" width="35" height="35" fill="none" stroke="#000" stroke-width="1"/>
+    <text x="177" y="73" text-anchor="middle">0</text>
+
+    <text x="212" y="36" text-anchor="middle">0</text>
+    <rect x="195" y="14" width="35" height="35" fill="none" stroke="#000" stroke-width="1"/>
+    <text x="212" y="73" text-anchor="middle">1</text>
+
+    <text x="247" y="36" text-anchor="middle">0</text>
+    <rect x="230" y="14" width="35" height="35" fill="none" stroke="#000" stroke-width="1"/>
+    <text x="247" y="73" text-anchor="middle">2</text>
+
+    <text x="282" y="36" text-anchor="middle">0</text>
+    <rect x="265" y="14" width="35" height="35" fill="none" stroke="#000" stroke-width="1"/>
+    <text x="282" y="73" text-anchor="middle">3</text>
+
+    <text x="317" y="36" text-anchor="middle">0</text>
+    <rect x="300" y="14" width="35" height="35" fill="none" stroke="#000" stroke-width="1"/>
+    <text x="317" y="73" text-anchor="middle">4</text>
+
+    <text x="210" y="95">Indexes</text>
+
+</svg>

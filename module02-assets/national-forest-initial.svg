@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: #fff;" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="520px" height="270px">
+    <style>
+    text {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        fill: #000000;
+    }
+    </style>
+    <g>
+        <rect x="349" y="180" width="130" height="70" fill="#ffffff" stroke="#000000" />
+
+        <text x="351" y="205">name: "Angelina"</text>
+        <text x="351" y="219">location: null</text>
+        <text x="351" y="234">acres: 0</text>
+
+        <rect x="9" y="180" width="130" height="70" fill="#ffffff" stroke="#000000"/>
+
+        <text x="11" y="205">name: "Allegheny"</text>
+        <text x="11" y="219">location: null</text>
+        <text x="11" y="234">acres: 0</text>
+
+        <rect x="174" y="180" width="130" height="70" fill="#ffffff" stroke="#000000"/>
+
+        <text x="176" y="205">name: "Angeles"</text>
+        <text x="176" y="219">location: null</text>
+        <text x="176" y="234">acres: 0</text>
+
+        <text x="9" y="20" fill="#000000" font-family="Helvetica" font-size="16px" font-weight="bold">Class</text>
+        <text x="9" y="155" fill="#000000" font-family="Helvetica" font-size="16px" font-weight="bold">Objects</text>
+
+        <path d="M 204 124 L 204 152 L 74 152 L 74 173.63" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 74 178.88 L 70.5 171.88 L 74 173.63 L 77.5 171.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 239 124 L 239 173.63" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 239 178.88 L 235.5 171.88 L 239 173.63 L 242.5 171.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 274 124 L 274 152 L 414 152 L 414 173.63" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 414 178.88 L 410.5 171.88 L 414 173.63 L 417.5 171.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 169 46 L 169 20 L 309 20 L 309 46" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 169 46 L 169 124 L 309 124 L 309 46" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 169 46 L 309 46" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="238.5" y="37.5" text-anchor="middle">NationalForest</text>
+        <text x="174.5" y="63.5">String name</text>
+        <text x="174.5" y="89.5">String location</text>
+        <text x="174.5" y="115.5">int acres</text>
+
+        <text x="420" y="54" font-size="14px" text-anchor="middle">A class is a template</text>
+        <text x="420" y="69" font-size="14px" text-anchor="middle">from which objects are created.</text>
+
+    </g>
+</svg>

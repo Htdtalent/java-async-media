@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: #ffffff;" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="725px" height="400px">
+    <style>
+    text {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        fill:#000000;
+    }
+    </style>
+    <g transform="translate(0, 10)">
+        <rect x="120" y="39" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="140" y="63" text-anchor="middle">t</text>
+
+        <rect x="0" y="249" width="90" height="20" fill="none" stroke="none"/>
+        <text x="45" y="263" text-anchor="middle">String a</text>
+
+        <rect x="0" y="289" width="90" height="20" fill="none" stroke="none"/>
+        <text x="45" y="303" text-anchor="middle">String b</text>
+
+        <rect x="160" y="39" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="180" y="63" text-anchor="middle">u</text>
+
+        <rect x="240" y="39" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="260" y="63" text-anchor="middle">n</text>
+
+        <rect x="200" y="39" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="220" y="63" text-anchor="middle">r</text>
+
+        <rect x="160" y="79" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="180" y="103" text-anchor="middle">p</text>
+
+        <rect x="120" y="79" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="140" y="103" text-anchor="middle">i</text>
+
+        <rect x="200" y="79" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="240" y="79" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="120" y="119" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="140" y="143" text-anchor="middle">t</text>
+
+        <rect x="160" y="119" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="180" y="143" text-anchor="middle">u</text>
+
+        <rect x="200" y="119" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="220" y="143" text-anchor="middle">r</text>
+
+        <rect x="240" y="119" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="260" y="143" text-anchor="middle">n</text>
+
+        <rect x="120" y="159" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="140" y="183" text-anchor="middle">i</text>
+
+        <rect x="160" y="159" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="180" y="183" text-anchor="middle">p</text>
+
+        <rect x="200" y="159" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="240" y="159" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="120" y="199" width="160" height="40" fill="#ffffff" stroke="#000000"/>
+        <path d="M 280 259 L 310 259 L 310 39 L 286.37 39" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 281.12 39 L 288.12 35.5 L 286.37 39 L 288.12 42.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <rect x="120" y="239" width="160" height="40" fill="#f8cecc" stroke="#b85450"/>
+
+        <text x="200" y="263" text-anchor="middle">reference</text>
+
+        <path d="M 280 299 L 330 299 L 330 119 L 286.37 119" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 281.12 119 L 288.12 115.5 L 286.37 119 L 288.12 122.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <rect x="120" y="279" width="160" height="40" fill="#f8cecc" stroke="#b85450"/>
+
+        <text x="200" y="303" text-anchor="middle">reference</text>
+        <text x="143" y="14" text-anchor="middle">Memory</text>
+
+        <text x="197" y="355" text-anchor="middle">a == b</text>
+        <text x="197" y="370" text-anchor="middle">The references are not equal.</text>
+
+        <rect x="487" y="38" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="507" y="62" text-anchor="middle">t</text>
+
+
+        <rect x="367" y="248" width="90" height="20" fill="none" stroke="none"/>
+        <text x="412" y="262" text-anchor="middle">String a</text>
+
+
+        <rect x="367" y="288" width="90" height="20" fill="none" stroke="none"/>
+        <text x="412" y="302" text-anchor="middle">String b</text>
+
+        <rect x="527" y="38" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="547" y="62" text-anchor="middle">u</text>
+
+
+        <rect x="607" y="38" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="627" y="62" text-anchor="middle">n</text>
+
+
+        <rect x="567" y="38" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="587" y="62" text-anchor="middle">r</text>
+
+
+        <rect x="527" y="78" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="547" y="102" text-anchor="middle">p</text>
+
+        <rect x="487" y="78" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="507" y="102" text-anchor="middle">i</text>
+
+        <rect x="567" y="78" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="607" y="78" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="487" y="118" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+
+        <text x="507" y="142" text-anchor="middle">t</text>
+
+        <rect x="527" y="118" width="40" height="40" fill="#d5e8d4" stroke="#82b366"/>
+        <text x="547" y="142" text-anchor="middle">u</text>
+
+        <rect x="567" y="118" width="40" height="40" fill="#d5e8d4" stroke="#82b366"/>
+        <text x="587" y="142" text-anchor="middle">r</text>
+
+        <rect x="607" y="118" width="40" height="40" fill="#d5e8d4" stroke="#82b366"/>
+        <text x="627" y="142" text-anchor="middle">n</text>
+
+        <rect x="487" y="158" width="40" height="40" fill="#d5e8d4" stroke="#82b366"/>
+        <text x="507" y="182" text-anchor="middle">i</text>
+
+        <rect x="527" y="158" width="40" height="40" fill="#d5e8d4" stroke="#82b366"/>
+        <text x="547" y="182" text-anchor="middle">p</text>
+
+        <rect x="567" y="158" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="607" y="158" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="487" y="198" width="160" height="40" fill="#ffffff" stroke="#000000"/>
+        <path d="M 647 258 L 677 258 L 677 38 L 653.37 38" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 648.12 38 L 655.12 34.5 L 653.37 38 L 655.12 41.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <rect x="487" y="238" width="160" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="567" y="262" text-anchor="middle">reference</text>
+
+        <path d="M 647 298 L 697 298 L 697 118 L 653.37 118" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 648.12 118 L 655.12 114.5 L 653.37 118 L 655.12 121.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <rect x="487" y="278" width="160" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="567" y="302" text-anchor="middle">reference</text>
+
+        <rect x="487" y="38" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="507" y="62" text-anchor="middle">t</text>
+
+        <rect x="527" y="38" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="547" y="62" text-anchor="middle">u</text>
+
+        <rect x="567" y="38" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="587" y="62" text-anchor="middle">r</text>
+
+        <rect x="607" y="38" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="627" y="62" text-anchor="middle">n</text>
+
+        <rect x="487" y="78" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="507" y="102" text-anchor="middle">i</text>
+
+        <rect x="527" y="78" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="547" y="102" text-anchor="middle">p</text>
+
+        <rect x="487" y="118" width="40" height="40" fill="#ffffff" stroke="#000000"/>
+        <text x="507" y="142" text-anchor="middle">t</text>
+
+        <rect x="487" y="38" width="40" height="40" fill="#d5e8d4" stroke="#82b366"/>
+        <text x="507" y="62" text-anchor="middle">t</text>
+
+        <rect x="527" y="38" width="40" height="40" fill="#d5e8d4" stroke="#82b366"/>
+        <text x="547" y="62" text-anchor="middle">u</text>
+
+        <rect x="567" y="38" width="40" height="40" fill="#d5e8d4" stroke="#82b366"/>
+        <text x="587" y="62" text-anchor="middle">r</text>
+
+        <rect x="607" y="38" width="40" height="40" fill="#d5e8d4" stroke="#82b366"/>
+        <text x="627" y="62" text-anchor="middle">n</text>
+
+        <rect x="487" y="78" width="40" height="40" fill="#d5e8d4" stroke="#82b366"/>
+        <text x="507" y="102" text-anchor="middle">i</text>
+
+        <rect x="527" y="78" width="40" height="40" fill="#d5e8d4" stroke="#82b366"/>
+        <text x="547" y="102" text-anchor="middle">p</text>
+
+        <rect x="487" y="118" width="40" height="40" fill="#d5e8d4" stroke="#82b366"/>
+        <text x="507" y="142" text-anchor="middle">t</text>
+
+        <text x="577" y="355" text-anchor="middle">a.equals(b)</text>
+        <text x="577" y="370" text-anchor="middle">The values are equal.</text>
+    </g>
+
+</svg>

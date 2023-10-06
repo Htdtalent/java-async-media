@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: #ffffff;" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="650px" height="475px">
+    <style>
+    text {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+    }   
+    </style>
+    <g transform="translate(10, 10)">
+        <rect x="499" y="32" width="120" height="40" fill="#ffffff" stroke="#000000"/>
+        <path d="M 559 72 L 559 460" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+
+        <text x="559" y="56" fill="#000000" text-anchor="middle">MemoryRepository</text>
+
+        <rect x="379" y="32" width="100" height="40" fill="#ffffff" stroke="#000000"/>
+        <path d="M 429 72 L 429 460" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+
+        <text x="429" y="56" fill="#000000" text-anchor="middle">MemoryService</text>
+
+        <rect x="259" y="32" width="100" height="40" fill="#ffffff" stroke="#000000"/>
+        <path d="M 309 72 L 309 460" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+
+        <text x="309" y="56" fill="#000000" text-anchor="middle">Controller</text>
+
+        <path d="M 24 96 L 306.76 96" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <ellipse cx="17" cy="96" rx="7" ry="7" fill="#000000" stroke="#000000"/>
+        <path d="M 298.88 100.5 L 307.88 96 L 298.88 91.5" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="139" y="93" fill="#000000" text-anchor="middle">updateMemory</text>
+
+        <rect x="139" y="32" width="100" height="40" fill="#ffffff" stroke="#000000"/>
+        <path d="M 189 72 L 189 460" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+
+        <text x="189" y="56" fill="#000000" text-anchor="middle">View</text>
+
+        <rect x="19" y="32" width="100" height="40" fill="#ffffff" stroke="#000000"/>
+        <path d="M 69 72 L 69 460" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+
+        <text x="69" y="56" fill="#000000" text-anchor="middle">TextIO</text>
+        <text x="64" y="14" fill="#000000" text-anchor="middle">Update Memory</text>
+
+        <path d="M 308.5 125 L 196.62 125" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 189.62 125 L 196.62 121.5 L 196.62 128.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="249" y="122" fill="#000000" text-anchor="middle">isPublic</text>
+
+        <path d="M 188.5 138 L 76.62 138" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 69.62 138 L 76.62 134.5 L 76.62 141.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="129" y="135" fill="#000000" text-anchor="middle">readBoolean</text>
+
+        <path d="M 68.5 161 L 186.26 161" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 178.38 165.5 L 187.38 161 L 178.38 156.5" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="129" y="158" fill="#000000" text-anchor="middle">true</text>
+
+        <path d="M 188.5 170 L 306.26 170" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 298.38 174.5 L 307.38 170 L 298.38 165.5" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="249" y="167" fill="#000000" text-anchor="middle">true</text>
+
+        <path d="M 308.5 180 L 420.38 180" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 427.38 180 L 420.38 183.5 L 420.38 176.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="369" y="177" fill="#000000" text-anchor="middle">findPublicMemories</text>
+
+        <path d="M 428.5 192 L 550.38 192" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 557.38 192 L 550.38 195.5 L 550.38 188.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="494" y="189" fill="#000000" text-anchor="middle">findShareable(true)</text>
+
+        <path d="M 558.5 214 L 430.74 214" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 438.62 209.5 L 429.62 214 L 438.62 218.5" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="494" y="211" fill="#000000" text-anchor="middle">List&lt;Memory&gt;</text>
+
+        <path d="M 428.5 225 L 310.74 225" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 318.62 220.5 L 309.62 225 L 318.62 229.5" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="369" y="222" fill="#000000" text-anchor="middle">List&lt;Memory&gt;</text>
+
+        <path d="M 308.5 236 L 196.62 236" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 189.62 236 L 196.62 232.5 L 196.62 239.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="249" y="233" fill="#000000" text-anchor="middle">chooseMemory</text>
+
+        <path d="M 188.5 248 L 76.62 248" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 69.62 248 L 76.62 244.5 L 76.62 251.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="129" y="245" fill="#000000" text-anchor="middle">readInt</text>
+
+        <path d="M 68.5 274 L 186.26 274" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 178.38 278.5 L 187.38 274 L 178.38 269.5" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="129" y="271" fill="#000000" text-anchor="middle">value</text>
+
+        <path d="M 188.5 286 L 306.26 286" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 298.38 290.5 L 307.38 286 L 298.38 281.5" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="249" y="283" fill="#000000" text-anchor="middle">memory</text>
+
+        <path d="M 308.5 316 L 196.62 316" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 189.62 316 L 196.62 312.5 L 196.62 319.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="249" y="310" fill="#000000" text-anchor="middle">editMemory(memory)</text>
+
+        <path d="M 188.5 332 L 76.62 332" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 69.62 332 L 76.62 328.5 L 76.62 335.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="129" y="329" fill="#000000" text-anchor="middle">readString *3</text>
+
+        <path d="M 188.5 343 L 300.38 343" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 307.38 343 L 300.38 346.5 L 300.38 339.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="249" y="340" fill="#000000" text-anchor="middle">memory</text>
+
+        <path d="M 308.5 355 L 420.38 355" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 427.38 355 L 420.38 358.5 L 420.38 351.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="369" y="352" fill="#000000" text-anchor="middle">update(memory)</text>
+
+        <path d="M 428.5 367 L 550.38 367" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 557.38 367 L 550.38 370.5 L 550.38 363.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="494" y="364" fill="#000000" text-anchor="middle">update(memory)</text>
+
+        <path d="M 558.5 392 L 430.74 392" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 438.62 387.5 L 429.62 392 L 438.62 396.5" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="494" y="389" fill="#000000" text-anchor="middle">true</text>
+
+        <path d="M 428.5 405 L 310.74 405" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 318.62 400.5 L 309.62 405 L 318.62 409.5" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="369" y="402" fill="#000000" text-anchor="middle">result</text>
+
+        <path d="M 188.5 442 L 76.62 442" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 69.62 442 L 76.62 438.5 L 76.62 445.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="129" y="439" fill="#000000" text-anchor="middle">print</text>
+
+        <path d="M 308.5 425 L 196.62 425" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 189.62 425 L 196.62 421.5 L 196.62 428.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="249" y="422" fill="#000000" text-anchor="middle">displayMessage</text>
+    </g>
+</svg>

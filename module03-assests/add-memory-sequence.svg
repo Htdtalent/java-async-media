@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: rgb(255, 255, 255);" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="370px" height="335px">
+    <style>
+    text {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 14px;
+    }   
+    </style>
+    <g transform="translate(15, 15)">
+        <ellipse cx="20" cy="5" rx="5" ry="5" fill="#ffffff" stroke="#000000"/>
+        <path d="M 20 10 L 20 26.67 M 20 13.33 L 10 13.33 M 20 13.33 L 30 13.33 M 20 26.67 L 10 40 M 20 26.67 L 30 40" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 20 78 L 20 300" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+
+        <text x="20" y="55" fill="#000000" text-anchor="middle">Service</text>
+         <text x="20" y="70" fill="#000000" text-anchor="middle">User</text>
+
+        <rect x="90" y="0" width="100" height="40" fill="#ffffff" stroke="#000000"/>
+        <path d="M 140 40 L 140 300" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+
+        <text x="140" y="24" fill="#000000" text-anchor="middle">Service</text>
+
+        <rect x="240" y="0" width="100" height="40" fill="#ffffff" stroke="#000000"/>
+        <path d="M 290 40 L 290 300" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+
+        <text x="290" y="24" fill="#000000" text-anchor="middle">Repository</text>
+
+        <path d="M 290 240 L 141.74 240" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 149.62 235.5 L 140.62 240 L 149.62 244.5" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="215" y="237" fill="#000000" text-anchor="middle">memory</text>
+
+        <path d="M 19.5 103 L 131.38 103" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 138.38 103 L 131.38 106.5 L 131.38 99.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="80" y="100" fill="#000000" text-anchor="middle">add</text>
+
+        <path d="M 139.5 140 L 200 140 Q 210 140 210 150 L 210 155 Q 210 160 200 160 L 147.62 160" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 140.62 160 L 147.62 156.5 L 147.62 163.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="210" y="133" fill="#000000" text-anchor="middle">validate</text>
+
+        <path d="M 139.5 202 L 281.38 202" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 288.38 202 L 281.38 205.5 L 281.38 198.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="215" y="199" fill="#000000" text-anchor="middle">add</text>
+
+        <path d="M 139.5 266 L 21.74 266" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 29.62 261.5 L 20.62 266 L 29.62 270.5" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="80" y="263" fill="#000000" text-anchor="middle">memory</text>
+
+    </g>
+
+</svg>

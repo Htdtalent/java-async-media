@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: #ffffff;" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="825px" height="465px">
+    <defs/>
+    <g transform="translate(10, 10)">
+        <rect x="0" y="32" width="370" height="200" fill="#ffffff" stroke="#000000"/>
+        <rect x="20" y="112" width="60" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="290" y="52" width="60" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="200" y="52" width="60" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="110" y="52" width="60" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="20" y="52" width="60" height="40" fill="#ffffff" stroke="#000000"/>
+
+        <text x="5" y="14" fill="#000000" font-size="14px">Main</text>
+
+        <rect x="290" y="172" width="60" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="290" y="112" width="60" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="200" y="172" width="60" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="200" y="112" width="60" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="110" y="172" width="60" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="20" y="172" width="60" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="110" y="112" width="60" height="40" fill="#ffffff" stroke="#000000"/>
+        <rect x="414" y="78" width="370" height="138" fill="#ffffff" stroke="#000000" transform="rotate(15,599,147)"/>
+        <rect x="430" y="122" width="60" height="40" fill="#ffffff" stroke="#000000" transform="rotate(15,460,142)"/>
+        <rect x="707" y="133" width="60" height="40" fill="#ffffff" stroke="#000000" transform="rotate(15,737,153)"/>
+        <rect x="620" y="110" width="60" height="40" fill="#ffffff" stroke="#000000" transform="rotate(15,650,130)"/>
+        <rect x="533" y="87" width="60" height="40" fill="#ffffff" stroke="#000000" transform="rotate(15,563,107)"/>
+        <rect x="446" y="64" width="60" height="40" fill="#ffffff" stroke="#000000" transform="rotate(15,476,84)"/>
+        <g transform="rotate(15 466.3800000000001 16.909999999999968)">
+            <text x="435" y="21" fill="#000000" font-size="14px">Upper Hill</text>
+        </g>
+        <rect x="691" y="191" width="60" height="40" fill="#ffffff" stroke="#000000" transform="rotate(15,721,211)"/>
+        <rect x="604" y="168" width="60" height="40" fill="#ffffff" stroke="#000000" transform="rotate(15,634,188)"/>
+        <rect x="517" y="145" width="60" height="40" fill="#ffffff" stroke="#000000" transform="rotate(15,547,165)"/>
+        <rect x="400" y="248" width="370" height="138" fill="#ffffff" stroke="#000000" transform="rotate(15,585,317)"/>
+        <rect x="416" y="292" width="60" height="40" fill="#ffffff" stroke="#000000" transform="rotate(15,446,312)"/>
+        <rect x="693" y="303" width="60" height="40" fill="#ffffff" stroke="#000000" transform="rotate(15,723,323)"/>
+        <rect x="606" y="280" width="60" height="40" fill="#ffffff" stroke="#000000" transform="rotate(15,636,300)"/>
+        <rect x="519" y="257" width="60" height="40" fill="#ffffff" stroke="#000000" transform="rotate(15,549,277)"/>
+        <rect x="432" y="234" width="60" height="40" fill="#ffffff" stroke="#000000" transform="rotate(15,462,254)"/>
+        <text x="435" y="199" fill="#000000" font-size="14px" transform="rotate(15 461.03999999999996 195.49)">Lower Hill</text>
+        <rect x="677" y="361" width="60" height="40" fill="#ffffff" stroke="#000000" transform="rotate(15,707,381)"/>
+        <rect x="590" y="338" width="60" height="40" fill="#ffffff" stroke="#000000" transform="rotate(15,620,358)"/>
+        <rect x="503" y="315" width="60" height="40" fill="#ffffff" stroke="#000000" transform="rotate(15,533,335)"/>
+    </g>
+</svg>

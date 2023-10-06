@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: rgb(255, 255, 255);" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="400px" height="450px">
+    <style>
+    text {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+    }
+    text.label {
+        font-size: 16px;
+    }  
+    </style>
+    <g>
+        <rect x="117" y="30" width="160" height="391" rx="24" ry="24" fill="#ffffff" stroke="#000000"/>
+        <rect x="142" y="0" width="110" height="20" fill="none" stroke="none"/>
+
+        <text x="197" y="20" fill="#000000" class="label" text-anchor="middle">DI Container</text>
+
+        <path d="M 7 226 L 110.63 225.53" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 115.88 225.51 L 108.9 229.04 L 110.63 225.53 L 108.87 222.04 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="62" y="218" fill="#000000" class="label" text-anchor="middle">Register</text>
+
+        <path d="M 197 190 L 197 218.63" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 197 223.88 L 193.5 216.88 L 197 218.63 L 200.5 216.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <rect x="137" y="150" width="120" height="40" rx="6" ry="6" fill="#ffffff" stroke="#000000"/>
+
+        <text x="197" y="174" fill="#000000" text-anchor="middle">Astronaut</text>
+
+        <path d="M 167 140 L 167 218.63" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 167 223.88 L 163.5 216.88 L 167 218.63 L 170.5 216.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 257 120 L 267 120 L 267 290 L 227 290 L 227 293.63" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 227 298.88 L 223.5 291.88 L 227 293.63 L 230.5 291.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <rect x="137" y="100" width="120" height="40" rx="6" ry="6" fill="#ffffff" stroke="#000000"/>
+
+        <text x="197" y="124" fill="#000000" text-anchor="middle">Astronaut</text>
+
+        <path d="M 137 70 L 127 70 L 127 290 L 167 290 L 167 293.63" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 167 298.88 L 163.5 291.88 L 167 293.63 L 170.5 291.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <rect x="137" y="50" width="120" height="40" rx="6" ry="6" fill="#ffffff" stroke="#000000"/>
+
+        <text x="197" y="74" fill="#000000" text-anchor="middle">Astronaut</text>
+
+        <rect x="137" y="225" width="120" height="50" rx="7.5" ry="7.5" fill="#ffffff" stroke="#000000"/>
+
+        <text x="197" y="254" fill="#000000" text-anchor="middle">MoonHopper</text>
+
+        <rect x="137" y="300" width="120" height="51" rx="7.65" ry="7.65" fill="#ffffff" stroke="#000000"/>
+
+        <text x="197" y="329" fill="#000000" text-anchor="middle">InterstellarTransport</text>
+
+        <path d="M 277 225.5 L 360.63 225.96" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 365.88 225.99 L 358.86 229.45 L 360.63 225.96 L 358.9 222.45 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="322" y="218" fill="#000000" class="label" text-anchor="middle">Retrieve</text>
+
+        <rect x="137" y="361" width="120" height="40" rx="6" ry="6" fill="#ffffff" stroke="#000000"/>
+
+        <text x="197" y="385" fill="#000000" text-anchor="middle">Probe</text>
+
+    </g>
+
+</svg>

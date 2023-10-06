@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: rgb(255, 255, 255);" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="745px" height="395px">
+    <style>
+    text {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+    }
+    text.header {
+        font-size: 16px;
+        font-weight: 800;
+    }  
+    </style>
+    <g>
+        <rect x="30" y="50" width="200" height="330" fill="#ffffff" stroke="#000000"/>
+
+        <text x="20" y="22" fill="#000000" class="header">RPG Players &amp; Heroes</text>
+
+        <path d="M 212 94 L 253.63 94" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 258.88 94 L 251.88 97.5 L 253.63 94 L 251.88 90.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <rect x="42" y="64" width="170" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="127" y="98" fill="#000000" text-anchor="middle">Player: Petronella Cracoe</text>
+
+        <path d="M 212 254 L 253.63 254" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 258.88 254 L 251.88 257.5 L 253.63 254 L 251.88 250.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <rect x="42" y="224" width="170" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="127" y="258" fill="#000000" text-anchor="middle">Player: Andonis Alanbrooke</text>
+
+        <path d="M 212 334 L 253.63 334" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 258.88 334 L 251.88 337.5 L 253.63 334 L 251.88 330.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <rect x="42" y="304" width="170" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="127" y="338" fill="#000000" text-anchor="middle">Player: Kevyn Winskill</text>
+
+        <path d="M 212 174 L 253.63 174" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 258.88 174 L 251.88 177.5 L 253.63 174 L 251.88 170.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <rect x="42" y="144" width="170" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="127" y="178" fill="#000000" text-anchor="middle">Player: Edna Balogun</text>
+
+        <path d="M 390 94 L 443.63 94" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 448.88 94 L 441.88 97.5 L 443.63 94 L 441.88 90.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <rect x="260" y="64" width="130" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="325" y="98" fill="#000000" text-anchor="middle">Hero: Izabel Paddison</text>
+
+        <rect x="605" y="64" width="130" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="670" y="98" fill="#000000" text-anchor="middle">Hero: Eula Maslen</text>
+
+        <rect x="260" y="144" width="170" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="345" y="178" fill="#000000" text-anchor="middle">Hero: Cherianne Abrashkov</text>
+
+        <path d="M 390 334 L 430.63 334" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 435.88 334 L 428.88 337.5 L 430.63 334 L 428.88 330.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <rect x="260" y="304" width="130" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="325" y="338" fill="#000000" text-anchor="middle">Hero: Trish</text>
+
+        <rect x="437" y="304" width="140" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="507" y="338" fill="#000000" text-anchor="middle">Hero: Sidonnie Zmitruk</text>
+
+        <text x="50" y="44" fill="#000000" text-anchor="middle">Players</text>
+
+        <path d="M 567 94 L 598.63 94" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 603.88 94 L 596.88 97.5 L 598.63 94 L 596.88 90.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <rect x="437" y="64" width="130" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="502" y="98" fill="#000000" text-anchor="middle">Hero: Tadio Jeeves</text>
+
+        <rect x="260" y="224" width="30" height="60" rx="4.5" ry="4.5" fill="#ffffff" stroke="#000000"/>
+    </g>
+
+</svg>

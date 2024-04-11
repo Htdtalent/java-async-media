@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: #ffffff;"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="610px" height="265px">
+    <defs/>
+    <g transform="translate(15,15)">
+        <path d="M 493 85 C 493 76.72 510.91 70 533 70 C 543.61 70 553.78 71.58 561.28 74.39 C 568.79 77.21 573 81.02 573 85 L 573 145 C 573 153.28 555.09 160 533 160 C 510.91 160 493 153.28 493 145 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 573 85 C 573 93.28 555.09 100 533 100 C 510.91 100 493 93.28 493 85" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <text x="533" y="125" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Database</text>
+        <rect x="0" y="0" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+        <text x="60" y="34" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Web Browser</text>
+        <rect x="341" y="45" width="70" height="140" rx="10.5" ry="10.5" fill="#ffffff" stroke="#000000"/>
+        <text x="376" y="117" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">HTTP</text>
+        <text x="376" y="132" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Server</text>
+        <rect x="0" y="85" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+        <text x="60" y="119" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Web Browser</text>
+        <rect x="0" y="170" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+        <text x="60" y="204" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Web Browser</text>
+
+        <path d="M 120 15 L 336.76 53.82" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 341.93 54.74 L 334.42 56.95 L 336.76 53.82 L 335.66 50.06 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 338.97 67.96 L 126.33 45.66" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 121.11 45.12 L 128.44 42.37 L 126.33 45.66 L 127.71 49.33 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 120 107.98 L 331.62 108" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 336.87 108 L 329.87 111.5 L 331.62 108 L 329.87 104.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 337.99 129 L 126.37 129.97" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 121.12 129.99 L 128.1 126.46 L 126.37 129.97 L 128.13 133.46 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 120 200 L 334.79 151.41" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 339.91 150.25 L 333.85 155.21 L 334.79 151.41 L 332.31 148.38 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 337.99 169.04 L 126.23 213.69" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 121.09 214.77 L 127.22 209.9 L 126.23 213.69 L 128.67 216.75 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 414.01 103.94 L 481.98 110.12" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10"/>
+        <path d="M 488.7 110.74 L 479.33 114.4 L 481.98 110.12 L 480.14 105.44 Z" fill="#000000" stroke="#000000" stroke-width="3" stroke-miterlimit="10"/>
+        <path d="M 493 130.03 L 425.09 131.69" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="9 9"/>
+        <path d="M 418.34 131.86 L 427.23 127.14 L 425.09 131.69 L 427.45 136.14 Z" fill="#000000" stroke="#000000" stroke-width="3" stroke-miterlimit="10"/>
+
+        <text x="220" y="71" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">HTML</text>
+        <text x="220" y="21" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">HTTP Request</text>
+
+    </g>
+
+</svg>

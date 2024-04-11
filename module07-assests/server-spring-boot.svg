@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: #ffffff;"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="635px" height="375px">
+    <defs/>
+    <g transform="translate(15,15)">
+        <rect x="230" y="0" width="370" height="280" fill="#ffffff" stroke="#000000"/>
+
+        <text x="232" y="21" fill="#000000" font-family="Helvetica" font-size="14px"> Machine</text>
+
+        <rect x="280" y="30" width="300" height="240" fill="#ffffff" stroke="#000000" stroke-dasharray="3 3"/>
+
+        <text x="282" y="51" fill="#000000" font-family="Helvetica" font-size="14px"> Configured with Spring Boot</text>
+
+        <rect x="307" y="60" width="80" height="190" fill="#ffffff" stroke="#000000"/>
+
+        <text x="347" y="159" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">HTTP</text>
+        <text x="347" y="179" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Server</text>
+
+        <path d="M 47.5 95 C 9.5 95 0 130 30.4 137 C 0 152.4 34.2 186 58.9 172 C 76 200 133 200 152 172 C 190 172 190 144 166.25 130 C 190 102 152 74 118.75 88 C 95 67 57 67 47.5 95 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="95" y="134" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">The Web</text>
+
+        <rect x="470" y="62" width="90" height="185" fill="#ffffff" stroke="#000000"/>
+
+        <text x="515" y="159" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Spring MVC</text>
+        <text x="515" y="179" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">App #1</text>
+
+        <path d="M 163.97 88 L 296.63 91.02" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 301.88 91.13 L 294.8 94.47 L 296.63 91.02 L 294.96 87.48 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 388.04 86.79 L 465.43 87.47" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 470.68 87.52 L 463.65 90.96 L 465.43 87.47 L 463.71 83.96 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 173.09 128.04 L 300.76 153.74" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 305.9 154.78 L 298.35 156.83 L 300.76 153.74 L 299.73 149.97 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 159.98 172 L 299.95 214.52" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 304.97 216.05 L 297.26 217.36 L 299.95 214.52 L 299.29 210.66 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 387 155 L 463.63 154.54" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 468.88 154.51 L 461.9 158.05 L 463.63 154.54 L 461.86 151.05 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 389 217.13 L 463.63 216.19" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 468.88 216.12 L 461.93 219.71 L 463.63 216.19 L 461.84 212.71 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 307 100.66 L 177.37 102.87" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 172.12 102.96 L 179.06 99.34 L 177.37 102.87 L 179.18 106.34 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 471.8 100.85 L 392.41 100.67" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 387.16 100.66 L 394.17 97.18 L 392.41 100.67 L 394.15 104.18 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 307 169.63 L 193.43 148.14" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 188.27 147.16 L 195.8 145.03 L 193.43 148.14 L 194.5 151.9 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 470.9 165.05 L 394.41 164.54" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 389.16 164.51 L 396.18 161.05 L 394.41 164.54 L 396.13 168.05 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 302.04 226.63 L 155.07 183.72" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 150.03 182.25 L 157.73 180.86 L 155.07 183.72 L 155.77 187.57 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 470 233.87 L 394.41 234.38" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 389.16 234.41 L 396.13 230.87 L 394.41 234.38 L 396.18 237.86 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 153 342 L 198.5 296.5" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+        <path d="M 202.21 292.79 L 199.73 300.22 L 198.5 296.5 L 194.78 295.27 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="178" y="321" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">HTTP Response</text>
+
+        <path d="M 43 342 L 88.5 296.5" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 92.21 292.79 L 89.73 300.22 L 88.5 296.5 L 84.78 295.27 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="68" y="321" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">HTTP Request</text>
+
+    </g>
+
+</svg>

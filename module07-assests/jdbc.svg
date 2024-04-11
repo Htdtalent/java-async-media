@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: #ffffff;"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="700px" height="350px">
+    <defs/>
+    <g transform="translate(15,15)">
+        <path d="M 90 160 L 123.63 160" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 128.88 160 L 121.88 163.5 L 123.63 160 L 121.88 156.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <rect x="0" y="95" width="90" height="130" fill="#ffffff" stroke="#000000"/>
+
+        <text x="45" y="164" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Our Code</text>
+        <text x="45" y="184" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">&lt; /&gt;</text>
+
+        <path d="M 604 15 C 604 6.72 617.43 0 634 0 C 641.96 0 649.59 1.58 655.21 4.39 C 660.84 7.21 664 11.02 664 15 L 664 65 C 664 73.28 650.57 80 634 80 C 617.43 80 604 73.28 604 65 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 664 15 C 664 23.28 650.57 30 634 30 C 617.43 30 604 23.28 604 15" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="634" y="44" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">MySQL</text>
+
+        <path d="M 604 135 C 604 126.72 617.43 120 634 120 C 641.96 120 649.59 121.58 655.21 124.39 C 660.84 127.21 664 131.02 664 135 L 664 185 C 664 193.28 650.57 200 634 200 C 617.43 200 604 193.28 604 185 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 664 135 C 664 143.28 650.57 150 634 150 C 617.43 150 604 143.28 604 135" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="634" y="164" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Oracle</text>
+
+        <path d="M 604 255 C 604 246.72 617.43 240 634 240 C 641.96 240 649.59 241.58 655.21 244.39 C 660.84 247.21 664 251.02 664 255 L 664 305 C 664 313.28 650.57 320 634 320 C 617.43 320 604 313.28 604 305 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 664 255 C 664 263.28 650.57 270 634 270 C 617.43 270 604 263.28 604 255" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="634" y="284" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">SQL</text>
+        <text x="634" y="304" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Server</text>
+
+        <path d="M 430 40 L 598.65 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 603.9 40 L 596.9 43.5 L 598.65 40 L 596.9 36.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="518" y="54" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">MySQL Protocol</text>
+
+        <rect x="305" y="10" width="125" height="60" fill="#ffffff" stroke="#000000"/>
+
+        <text x="368" y="44" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">MySQL Driver</text>
+
+        <path d="M 430 160 L 597.63 160" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 602.88 160 L 595.88 163.5 L 597.63 160 L 595.88 156.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="517" y="174" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Oracle Protocol</text>
+
+        <rect x="305" y="130" width="125" height="60" fill="#ffffff" stroke="#000000"/>
+
+        <text x="368" y="164" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Oracle Driver</text>
+
+        <path d="M 430 280 L 597.63 280" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 602.88 280 L 595.88 283.5 L 597.63 280 L 595.88 276.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="517" y="294" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">SQL Server Protocol</text>
+
+        <rect x="305" y="250" width="125" height="60" fill="#ffffff" stroke="#000000"/>
+
+        <text x="368" y="284" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">SQL Server Driver</text>
+
+        <path d="M 250 145 L 277.5 145 L 277.5 40 L 298.63 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 303.88 40 L 296.88 43.5 L 298.63 40 L 296.88 36.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 250 160 L 298.63 160" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 303.88 160 L 296.88 163.5 L 298.63 160 L 296.88 156.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 250 175 L 277.5 175 L 277.5 280 L 298.63 280" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 303.88 280 L 296.88 283.5 L 298.63 280 L 296.88 276.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <rect x="130" y="130" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="190" y="164" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">JDBC</text>
+
+    </g>
+
+</svg>

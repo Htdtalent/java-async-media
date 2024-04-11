@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: #ffffff;"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="645px" height="240px">
+    <defs/>
+    <g transform="translate(15,15)">
+        <rect x="213" y="0" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="273" y="34" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">PiggyBank</text>
+
+        <rect x="483" y="142" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="543" y="176" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">CoinPanel</text>
+
+        <rect x="323" y="142" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="383" y="176" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">CoinPanel</text>
+
+        <rect x="163" y="142" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="223" y="176" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">CoinPanel</text>
+
+        <rect x="3" y="142" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="63" y="176" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">CoinPanel</text>
+
+        <path d="M 45 143.02 L 207.72 33.55" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 212.07 30.62 L 208.22 37.44 L 207.72 33.55 L 204.31 31.63 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <rect x="0" y="59" width="210" height="20" fill="#ffffff" stroke="none"/>
+        <text x="93" y="74" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">1. Click - Call Parent Function</text>
+
+        <path d="M 333 15 L 403 15 Q 413 15 413 25 L 413 35 Q 413 45 403 45 L 339.37 45" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 334.12 45 L 341.12 41.5 L 339.37 45 L 341.12 48.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <rect x="350" y="20" width="150" height="20" fill="#ffffff" stroke="none"/>
+        <text x="413" y="34" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">2. Update Total</text>
+
+        <path d="M 228 60 L 108.29 138.51" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 103.89 141.39 L 107.83 134.62 L 108.29 138.51 L 111.67 140.47 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 258 60 L 225.5 136.14" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 223.44 140.97 L 222.97 133.16 L 225.5 136.14 L 229.41 135.91 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 294.96 60 L 378.34 137.66" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 382.18 141.24 L 374.67 139.03 L 378.34 137.66 L 379.45 133.91 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 326.04 60 L 507.17 139.44" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 511.98 141.55 L 504.16 141.94 L 507.17 139.44 L 506.97 135.53 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+        <rect x="183" y="90" width="210" height="20" fill="#ffffff" stroke="none"/>
+
+        <text x="288" y="104" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">3. Update Props and re-render</text>
+
+    </g>
+</svg>

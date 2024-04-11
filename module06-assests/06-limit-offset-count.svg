@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: #ffffff;"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600px" height="450px">
+    <defs/>
+    <g transform="translate(10,0)">
+        <rect x="103" y="60" width="290" height="36" fill="none" stroke="#000000"/>
+        <rect x="103" y="96" width="290" height="36" fill="none" stroke="#000000"/>
+        <rect x="103" y="132" width="290" height="36" fill="none" stroke="#000000"/>
+        <rect x="103" y="168" width="290" height="36" fill="none" stroke="#000000"/>
+        <rect x="103" y="204" width="290" height="36" fill="#BBE5F2" stroke="#000000"/>
+        <rect x="103" y="240" width="290" height="36" fill="#BBE5F2" stroke="#000000"/>
+        <rect x="103" y="276" width="290" height="36" fill="#BBE5F2" stroke="#000000"/>
+        <rect x="103" y="312" width="290" height="36" fill="#BBE5F2" stroke="#000000"/>
+        <rect x="103" y="348" width="290" height="36" fill="none" stroke="#000000"/>
+        <rect x="103" y="384" width="290" height="36" fill="none" stroke="#000000"/>
+
+        <text x="168" y="24" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">LIMIT OFFSET, COUNT;</text>
+
+        <path d="M 73 60 L 68 60 Q 63 60 63 70 L 63 120 Q 63 130 58 130 L 55.5 130 Q 53 130 58 130 L 60.5 130 Q 63 130 63 140 L 63 190 Q 63 200 68 200 L 73 200" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 73 203 L 68 203 Q 63 203 63 213 L 63 266.5 Q 63 276.5 58 276.5 L 55.5 276.5 Q 53 276.5 58 276.5 L 60.5 276.5 Q 63 276.5 63 286.5 L 63 340 Q 63 350 68 350 L 73 350" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="23" y="134" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">OFFSET</text>
+        <text x="23" y="280" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">COUNT</text>
+
+        <path d="M 443 60 L 438 60 Q 433 60 433 70 L 433 230 Q 433 240 428 240 L 425.5 240 Q 423 240 428 240 L 430.5 240 Q 433 240 433 250 L 433 410 Q 433 420 438 420 L 443 420" fill="none" stroke="#000000" stroke-miterlimit="10" transform="rotate(-180,433,240)"/>
+
+        <text x="512" y="244" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">Ordered Rows</text>
+
+    </g>
+
+</svg>

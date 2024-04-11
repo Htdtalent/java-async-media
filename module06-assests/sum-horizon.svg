@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: #ffffff;"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="575px" height="225px">
+    <defs/>
+    <g transform="translate(10,20)">
+
+        <text x="20" y="104" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">A</text>
+        <rect x="140" y="0" width="300" height="60" fill="#ffffff" stroke="#000000"/>
+        <text x="290" y="34" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">Stage</text>
+        <text x="20" y="144" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">B</text>
+        <text x="380" y="184" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">6</text>
+        <text x="80" y="184" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">1</text>
+        <text x="139" y="184" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">2</text>
+        <text x="200" y="184" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">3</text>
+        <text x="259" y="184" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">4</text>
+        <text x="440" y="184" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">7</text>
+        <text x="500" y="184" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">8</text>
+        <text x="320" y="184" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">5</text>
+
+        <rect x="50" y="80" width="480" height="80" fill="#ffffff" stroke="#000000"/>
+        <path d="M 50 120 L 530 120" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 110 80 L 110 160" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 170 80 L 170 160" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 230 80 L 230 160" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 290 80 L 290 160" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 350 80 L 350 160" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 410 80 L 410 160" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 470 80 L 470 160" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 50 80 M 530 80 M 530 120 M 50 120" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 50 80 M 110 80 M 110 120 M 50 120" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 110 80 M 170 80 M 170 120 M 110 120" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 170 80 M 230 80 M 230 120 M 170 120" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 230 80 M 290 80 M 290 120 M 230 120" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 290 80 M 350 80 M 350 120 M 290 120" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 350 80 M 410 80 M 410 120 M 350 120" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 410 80 M 470 80 M 470 120 M 410 120" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 470 80 M 530 80 M 530 120 M 470 120" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 50 120 M 530 120 M 530 160 M 50 160" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 50 120 M 110 120 M 110 160 M 50 160" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 110 120 M 170 120 M 170 160 M 110 160" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 170 120 M 230 120 M 230 160 M 170 160" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 230 120 M 290 120 M 290 160 M 230 160" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 290 120 M 350 120 M 350 160 M 290 160" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 350 120 M 410 120 M 410 160 M 350 160" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 410 120 M 470 120 M 470 160 M 410 160" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 470 120 M 530 120 M 530 160 M 470 160" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    </g>
+
+</svg>

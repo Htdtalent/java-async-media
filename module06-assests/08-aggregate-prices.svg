@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="750px" height="550px" style="background-color: #ffffff;">
+    <defs/>
+    <g transform="translate(10, 10)">
+
+        <rect x="320" y="35" width="120" height="34" fill="#bbe5f2" stroke="none"/>
+        <rect x="320" y="69" width="120" height="35" fill="#bbe5f2" stroke="none"/>
+        <rect x="320" y="104" width="120" height="35" fill="#bbe5f2" stroke="none"/>
+        <rect x="320" y="139" width="120" height="34" fill="#bbe5f2" stroke="none"/>
+        <rect x="320" y="173" width="120" height="35" fill="#bbe5f2" stroke="none"/>
+        <rect x="320" y="208" width="120" height="35" fill="#bbe5f2" stroke="none"/>
+        <rect x="320" y="243" width="120" height="34" fill="#bbe5f2" stroke="none"/>
+        <rect x="320" y="277" width="120" height="35" fill="#bbe5f2" stroke="none"/>
+        <rect x="320" y="312" width="120" height="35" fill="#bbe5f2" stroke="none"/>
+        <rect x="320" y="347" width="120" height="34" fill="#bbe5f2" stroke="none"/>
+        <rect x="320" y="381" width="120" height="35" fill="#bbe5f2" stroke="none"/>
+        <rect x="320" y="416" width="120" height="35" fill="#bbe5f2" stroke="none"/>
+        <rect x="320" y="451" width="120" height="34" fill="#bbe5f2" stroke="none"/>
+        <rect x="320" y="485" width="120" height="35" fill="#bbe5f2" stroke="none"/>
+
+        <rect x="0" y="0" width="440" height="520" fill="none" stroke="#000000"/>
+
+        <path d="M 0 35 L 440 35" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 0 69 L 440 69" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 0 104 L 440 104" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 0 139 L 440 139" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 0 173 L 440 173" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 0 208 L 440 208" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 0 243 L 440 243" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 0 277 L 440 277" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 0 312 L 440 312" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 0 347 L 440 347" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 0 381 L 440 381" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 0 416 L 440 416" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 0 451 L 440 451" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 0 485 L 440 485" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 160 0 L 160 520" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 320 0 L 320 520" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="80" y="22" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">neighbourhood_group</text>
+        <text x="240" y="22" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">neighbourbood</text>
+        <text x="380" y="22" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">price</text>
+        <text x="80" y="56" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Manhattan</text>
+        <text x="240" y="56" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Harlem</text>
+        <text x="380" y="56" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">89.00</text>
+        <text x="80" y="91" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Manhattan</text>
+        <text x="240" y="91" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Harlem</text>
+        <text x="380" y="91" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">165.00</text>
+        <text x="80" y="126" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Manhattan</text>
+        <text x="240" y="126" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Harlem</text>
+        <text x="380" y="126" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">100.00</text>
+        <text x="80" y="160" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Manhattan</text>
+        <text x="240" y="160" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Hell's Kitchen</text>
+        <text x="380" y="160" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">250.00</text>
+        <text x="80" y="195" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Manhattan</text>
+        <text x="240" y="195" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Hell's Kitchen</text>
+        <text x="380" y="195" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">60.00</text>
+        <text x="80" y="230" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Manhattan</text>
+        <text x="240" y="230" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Harlem</text>
+        <text x="380" y="230" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">75.00</text>
+        <text x="80" y="264" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Manhattan</text>
+        <text x="240" y="264" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Harlem</text>
+        <text x="380" y="264" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">65.00</text>
+        <text x="80" y="299" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Manhattan</text>
+        <text x="240" y="299" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Harlem</text>
+        <text x="380" y="299" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">80.00</text>
+        <text x="80" y="334" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Manhattan</text>
+        <text x="240" y="334" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Harlem</text>
+        <text x="380" y="334" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">69.00</text>
+        <text x="80" y="368" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Manhattan</text>
+        <text x="240" y="368" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Harlem</text>
+        <text x="380" y="368" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">135.00</text>
+        <text x="80" y="403" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Manhattan</text>
+        <text x="240" y="403" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Harlem</text>
+        <text x="380" y="403" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">135.00</text>
+        <text x="80" y="438" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Brooklyn</text>
+        <text x="240" y="438" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Bushwick</text>
+        <text x="380" y="438" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">130.00</text>
+        <text x="80" y="472" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Manhattan</text>
+        <text x="240" y="472" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Hell's Kitchen</text>
+        <text x="380" y="472" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">217.00</text>
+        <text x="80" y="507" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Brooklyn</text>
+        <text x="240" y="507" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">Bushwick</text>
+        <text x="380" y="507" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">110.00</text>
+
+        <rect x="600" y="425" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="660" y="459" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">1680.00</text>
+
+        <rect x="600" y="328" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="660" y="362" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">250.00</text>
+
+        <rect x="600" y="230" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="660" y="264" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">60.00</text>
+
+        <rect x="600" y="133" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="660" y="167" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">120.00</text>
+
+        <rect x="600" y="35" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000"/>
+
+        <text x="660" y="69" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">14</text>
+
+        <path d="M 440 52 L 520 52 L 520 65 L 593.63 65" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 598.88 65 L 591.88 68.5 L 593.63 65 L 591.88 61.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="520" y="83" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">COUNT</text>
+
+        <path d="M 440 156 L 520 156 L 520 163 L 593.63 163" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 598.88 163 L 591.88 166.5 L 593.63 163 L 591.88 159.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="520" y="182" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">AVG</text>
+
+        <path d="M 440 260 L 593.63 260" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 598.88 260 L 591.88 263.5 L 593.63 260 L 591.88 256.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="520" y="282" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">MIN</text>
+
+        <path d="M 440 364 L 520 364 L 520 365 L 589.67 365.02" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 594.92 365.02 L 587.92 368.52 L 589.67 365.02 L 587.92 361.52 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="519" y="386" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">MAX</text>
+
+        <path d="M 440 468 L 520 468 L 520 455 L 593.63 455" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 598.88 455 L 591.88 458.5 L 593.63 455 L 591.88 451.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+
+        <text x="520" y="485" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">SUM</text>
+
+    </g>
+</svg>

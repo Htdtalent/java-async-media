@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: #ffffff;" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="625px" height="170px">
+    <style>
+    text {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+    }   
+    </style>
+    <g transform="translate(5,5)">
+        <rect x="3" y="20" width="600" height="130" fill="#ffffff" stroke="#000000"/>
+        <rect x="13" y="40" width="570" height="100" fill="#ffffff" stroke="#000000"/>
+        <rect x="305" y="49" width="120" height="80" fill="#ffffff" stroke="#000000"/>
+
+        <text x="365" y="93" fill="#000000" text-anchor="middle">Container: MySQL 7</text>
+
+        <rect x="445" y="49" width="120" height="80" fill="#ffffff" stroke="#000000"/>
+
+        <text x="505" y="93" fill="#000000" text-anchor="middle">Container: MySQL 8</text>
+
+        <rect x="3" y="0" width="40" height="20" fill="none" stroke="none"/>
+
+        <text x="23" y="14" fill="#000000" text-anchor="middle">Machine</text>
+
+        <rect x="25" y="49" width="120" height="80" fill="#ffffff" stroke="#000000"/>
+
+        <text x="85" y="93" fill="#000000" text-anchor="middle">Container: MySQL 5</text>
+
+        <rect x="165" y="49" width="120" height="80" fill="#ffffff" stroke="#000000"/>
+
+        <text x="225" y="93" fill="#000000" text-anchor="middle">Container: MySQL 6</text>
+
+        <rect x="3" y="20" width="40" height="20" fill="none" stroke="none"/>
+
+        <text x="23" y="34" fill="#000000" text-anchor="middle">OS</text>
+
+    </g>
+
+</svg>

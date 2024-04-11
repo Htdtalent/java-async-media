@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="background-color: #ffffff;"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="350px" height="265px">
+    <defs/>
+    <g transform="translate(10,20)">
+        <rect x="50" y="0" width="260" height="60" fill="#ffffff" stroke="#000000"/>
+        <text x="180" y="34" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">Stage</text>
+        <rect x="50" y="90" width="260" height="120" fill="#ffffff" stroke="#000000"/>
+        <path d="M 50 130 L 310 130" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 50 170 L 310 170" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 115 90 L 115 210" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 180 90 L 180 210" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 245 90 L 245 210" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 50 90 M 310 90 M 310 130 M 50 130" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 50 90 M 115 90 M 115 130 M 50 130" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 115 90 M 180 90 M 180 130 M 115 130" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 180 90 M 245 90 M 245 130 M 180 130" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 245 90 M 310 90 M 310 130 M 245 130" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 50 130 M 310 130 M 310 170 M 50 170" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 50 130 M 115 130 M 115 170 M 50 170" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 115 130 M 180 130 M 180 170 M 115 170" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 180 130 M 245 130 M 245 170 M 180 170" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 245 130 M 310 130 M 310 170 M 245 170" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 50 170 M 310 170 M 310 210 M 50 210" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 50 170 M 115 170 M 115 210 M 50 210" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 115 170 M 180 170 M 180 210 M 115 210" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 180 170 M 245 170 M 245 210 M 180 210" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 245 170 M 310 170 M 310 210 M 245 210" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+        <text x="20" y="114" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">A</text>
+        <text x="20" y="154" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">B</text>
+        <text x="20" y="194" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">C</text>
+        <text x="80" y="234" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">1</text>
+        <text x="147" y="234" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">2</text>
+        <text x="213" y="234" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">3</text>
+        <text x="280" y="234" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">4</text>
+
+    </g>
+
+</svg>

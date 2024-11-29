@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML/CSS/JavaScript Piggy Bank</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Piggy Bank</h1>
+        <div class="row">
+            <!-- Assign ids, set text to initial state. -->
+            <div id="coinQuarter" class="col">
+                <button class="btn">Insert 25&#162;</button>
+                <div>Contributed: $0.00</div>
+                <div>0% of total</div>
+            </div>
+            <div id="coinDime" class="col">
+                <button class="btn">Insert 10&#162;</button>
+                <div>Contributed: $0.00</div>
+                <div>0% of total</div>
+            </div>
+            <div id="coinNickel" class="col">
+                <button class="btn">Insert 5&#162;</button>
+                <div>Contributed: $0.00</div>
+                <div>0% of total</div>
+            </div>
+            <div id="coinPenny" class="col">
+                <button class="btn">Insert 1&#162;</button>
+                <div>Contributed: $0.00</div>
+                <div>0% of total</div>
+            </div>
+        </div>
+        <h4 id="total">Total: $0.00</h4>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
